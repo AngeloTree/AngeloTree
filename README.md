@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A passionate Software Developer from the States</h3>
+<h3 align="center">A very passionate Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/palmsci" target="blank"><img src="https://img.shields.io/twitter/follow/palmsci?logo=twitter&style=for-the-badge" alt="palmsci" /></a> </p>
 
