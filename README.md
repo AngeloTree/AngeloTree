@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJS, React, etc..**
 
-- 📫 How to reach me **angeloachaknis.com**
+- 📫 How to reach me **angeloachaknis@gmail.com**
 
 - ⚡ Fun fact **I love coffee (:**
 
