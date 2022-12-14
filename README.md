@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/palmsci" target="blank"><img src="https://img.shields.io/twitter/follow/palmsci?logo=twitter&style=for-the-badge" alt="palmsci" /></a> </p>
 
-- 🔭 I’m currently working on **a Password Manager**
+- 🔭 I’m currently contributing to ** other projects **
 
-- 💬 Ask me about **Pandas, PostgreSQL, etc..**
+- 💬 Ask me about **NodeJS, React, etc..**
 
-- 📫 How to reach me **angelochaknispy@gmail.com**
+- 📫 How to reach me **angeloachaknis.com**
 
 - ⚡ Fun fact **I love coffee (:**
 
