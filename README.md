@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/palmsci" target="blank"><img src="https://img.shields.io/twitter/follow/palmsci?logo=twitter&style=for-the-badge" alt="palmsci" /></a> </p>
 
-- 📚 I'm currently studying at **Grand Canyon University**.
+- 📚 I'm currently studying at **N/A**.
 
 - 💬 Ask me about **NodeJS, React, etc..**
 
-- 📫 How to reach me **angeloachaknis@gmail.com**
+- 📫 How to reach me **N/A**
 
-- ⚡ Fun fact **I love coffee (:**
+- ⚡ Fun fact **N/A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
