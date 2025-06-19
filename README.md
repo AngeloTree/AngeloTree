@@ -7,11 +7,11 @@
 
 - 📚 I'm currently studying at Arizona State University.
 
-- 💬 Ask me about **NodeJS, React, Python, etc..**
+- 💬 Ask me about NodeJS, React, Python, etc..
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me LinkedIn
 
-- ⚡ Fun fact **I love philosophy**
+- ⚡ Fun fact I love philosophy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
