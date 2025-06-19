@@ -9,7 +9,7 @@
 
 - 💬 Ask me about NodeJS, React, Python, etc..
 
-- 📫 How to reach me LinkedIn
+- 📫 How to reach me: LinkedIn
 
 - ⚡ Fun fact I love philosophy
 
